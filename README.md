@@ -18,9 +18,22 @@ Activity A onStop()
 #### When back btn presses (return to Activity A)
 Activity B onPause()
 
-Activity A onRestart()
-Activity A onStart()
+Activity A onRestart(), 
+Activity A onStart(), 
 Activity A onResume()
 
-Activity B onStop()
+Activity B onStop(), 
 Activity B onDestroy()
+
+#LifeCycle of Fragment
+onAttach()<br>
+onCreate()<br>
+onCreateView()<br>
+onActivityCreated()<br>
+onPause()<br>
+onStop()<br>
+onDestroyView()<br>
+onDestroy()<br>
+onDetach()<br>
+
+
