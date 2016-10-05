@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="click">clik to load FragA</string>
+    <string name="clicka">clik to load FragB</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Helo B fragment</string>
+</resources>
