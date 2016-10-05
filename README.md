@@ -19,8 +19,11 @@ Activity A onStop()
 Activity B onPause()
 
 Activity A onRestart()
+
 Activity A onStart()
+
 Activity A onResume()
 
 Activity B onStop()
+
 Activity B onDestroy()
